@@ -1,0 +1,11 @@
+{
+  "slug": "anti-rug-receipt",
+  "name": "Anti-Rug Receipt",
+  "kind": "security",
+  "description": "Create a transparent token authority and allocation checklist for retail users.",
+  "chain": "Solana",
+  "transactionVersion": 1,
+  "maxTransactionBytes": 4096,
+  "legacyTransactionBytes": 1232,
+  "status": "functional-prototype"
+}
