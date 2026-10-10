@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: If you use this software, please cite it as below.
+title: "anti-rug-receipt"
+abstract: "Create a transparent token authority and allocation checklist for retail users."
+repository-code: "https://github.com/nirholas/anti-rug-receipt"
+url: "https://three.ws"
+authors:
+  - name: three.ws
+    website: "https://three.ws"
