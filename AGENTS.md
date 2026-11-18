@@ -8,7 +8,7 @@ Create a transparent token authority and allocation checklist for retail users.
 
 - Source: https://github.com/nirholas/anti-rug-receipt
 - Primary language: HTML
-- License: Other (see the LICENSE file)
+- License: MIT (see the LICENSE file)
 
 ## Repository layout
 
